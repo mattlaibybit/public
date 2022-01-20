@@ -1,4 +1,4 @@
-module github.com/matlaibybit/public
+module github.com/mattlaibybit/public
 
 go 1.14
 
