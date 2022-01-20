@@ -21,7 +21,6 @@ require (
 	github.com/kardianos/service v1.2.1
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattlaibybit/gowp v0.0.0-20220120124944-eefe97e5058d
-	github.com/mattlaibybit/public v0.0.0-20220120124844-d6bce65dbe23
 	github.com/muesli/cache2go v0.0.0-20211005105910-8e46465cca4a
 	github.com/nicksnyder/go-i18n/v2 v2.1.2
 	github.com/nsqio/go-nsq v1.1.0
