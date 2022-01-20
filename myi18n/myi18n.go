@@ -1,8 +1,8 @@
 package myi18n
 
 import (
+	"github.com/mattlaibybit/public/tools"
 	"github.com/nicksnyder/go-i18n/v2/i18n"
-	"github.com/xxjwxc/public/tools"
 	"golang.org/x/text/language"
 )
 

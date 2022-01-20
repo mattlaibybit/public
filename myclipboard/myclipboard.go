@@ -1,8 +1,8 @@
 package myclipboard
 
 import (
-	"github.com/xxjwxc/public/myclipboard/clipboard"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/mattlaibybit/public/myclipboard/clipboard"
+	"github.com/mattlaibybit/public/mylog"
 )
 
 // Get 读取剪切板中的内容到字符串

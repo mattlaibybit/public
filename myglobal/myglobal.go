@@ -3,8 +3,8 @@ package myglobal
 import (
 	"fmt"
 
-	"github.com/xxjwxc/public/myglobal/snowflake"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/mattlaibybit/public/myglobal/snowflake"
+	"github.com/mattlaibybit/public/mylog"
 )
 
 // NodeInfo 节点信息

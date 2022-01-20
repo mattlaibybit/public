@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/gomodule/redigo/redis"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/mattlaibybit/public/mylog"
 )
 
 type redisConPool struct {

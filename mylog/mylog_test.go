@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/xxjwxc/public/dev"
+	"github.com/mattlaibybit/public/dev"
 
-	"github.com/xxjwxc/public/errors"
+	"github.com/mattlaibybit/public/errors"
 )
 
 func TestStdLog(t *testing.T) {
@@ -28,7 +28,7 @@ type ttt struct {
 }
 
 func TestZapLog(t *testing.T) {
-	dev.SetService("xxjwxc")
+	dev.SetService("mattlaibybit")
 	//	dev.OnSetDev(true)
 	SetLog(GetDefaultZap())
 	// log.Printf("%#v", &ttt{

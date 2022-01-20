@@ -6,8 +6,8 @@ package mycache
 import (
 	"time"
 
+	"github.com/mattlaibybit/public/serializing"
 	"github.com/muesli/cache2go"
-	"github.com/xxjwxc/public/serializing"
 )
 
 // CacheIFS 缓存操作接口
@@ -20,7 +20,6 @@ type CacheIFS interface {
 	Clear() error                                                         // 清空
 	Close() (err error)                                                   // 关闭连接
 }
-
 
 // MyCache 内存缓存
 type MyCache struct {

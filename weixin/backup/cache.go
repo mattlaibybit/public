@@ -3,7 +3,7 @@ package weixin
 import (
 	"time"
 
-	"github.com/xxjwxc/public/mycache"
+	"github.com/mattlaibybit/public/mycache"
 )
 
 // Gocache Memcache struct contains *memcache.Client

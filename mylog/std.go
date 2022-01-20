@@ -6,10 +6,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/xxjwxc/public/dev"
+	"github.com/mattlaibybit/public/dev"
 
 	"github.com/gookit/color"
-	"github.com/xxjwxc/public/errors"
+	"github.com/mattlaibybit/public/errors"
 )
 
 type stdLog struct {

@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/mattlaibybit/public/mylog"
 
 	"gorm.io/gorm/logger"
 )

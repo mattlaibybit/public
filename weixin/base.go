@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/bitly/go-simplejson"
-	"github.com/xxjwxc/public/message"
-	"github.com/xxjwxc/public/mycache"
-	"github.com/xxjwxc/public/myhttp"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/mattlaibybit/public/message"
+	"github.com/mattlaibybit/public/mycache"
+	"github.com/mattlaibybit/public/myhttp"
+	"github.com/mattlaibybit/public/mylog"
 )
 
 const (

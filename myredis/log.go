@@ -3,7 +3,7 @@ package myredis
 import (
 	"context"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/mattlaibybit/public/mylog"
 )
 
 type logger struct {

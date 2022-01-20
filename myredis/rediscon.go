@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/gomodule/redigo/redis"
-	"github.com/xxjwxc/public/dev"
-	"github.com/xxjwxc/public/mylog"
-	"github.com/xxjwxc/public/tools"
+	"github.com/mattlaibybit/public/dev"
+	"github.com/mattlaibybit/public/mylog"
+	"github.com/mattlaibybit/public/tools"
 )
 
 type base struct {

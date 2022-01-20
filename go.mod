@@ -1,4 +1,4 @@
-module github.com/xxjwxc/public
+module github.com/mattlaibybit/public
 
 go 1.14
 
@@ -17,6 +17,7 @@ require (
 	github.com/jinzhu/gorm v1.9.12
 	github.com/jroimartin/gocui v0.4.0
 	github.com/kardianos/service v1.0.0
+	github.com/mattlaibybit/gowp v0.0.0-20220120124616-b13aed402ee4 // indirect
 	github.com/muesli/cache2go v0.0.0-20200423001931-a100c5aac93f
 	github.com/nicksnyder/go-i18n/v2 v2.0.3
 	github.com/nsqio/go-nsq v1.0.8
@@ -25,7 +26,6 @@ require (
 	github.com/spf13/cobra v1.0.0
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/wenzhenxi/gorsa v0.0.0-20210524035706-528c7050d703
-	github.com/xxjwxc/gowp v0.0.0-20200603130651-4d7368b0e285
 	go.uber.org/zap v1.10.0
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/net v0.0.0-20211015210444-4f30a5c0130f

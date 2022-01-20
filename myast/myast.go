@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/xxjwxc/public/mydoc"
-	"github.com/xxjwxc/public/mylog"
-	"github.com/xxjwxc/public/tools"
+	"github.com/mattlaibybit/public/mydoc"
+	"github.com/mattlaibybit/public/mylog"
+	"github.com/mattlaibybit/public/tools"
 )
 
 type structAnalys struct {

@@ -3,8 +3,8 @@ package mynsq
 import (
 	"log"
 
+	"github.com/mattlaibybit/public/mylog"
 	"github.com/nsqio/go-nsq"
-	"github.com/xxjwxc/public/mylog"
 )
 
 var producer *nsq.Producer = nil

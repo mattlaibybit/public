@@ -3,12 +3,12 @@ package mysqldb
 import (
 	"errors"
 
-	"github.com/xxjwxc/public/dev"
-	myerrors "github.com/xxjwxc/public/errors"
+	"github.com/mattlaibybit/public/dev"
+	myerrors "github.com/mattlaibybit/public/errors"
 	"gorm.io/gorm/logger"
 	"gorm.io/gorm/schema"
 
-	"github.com/xxjwxc/public/mylog"
+	"github.com/mattlaibybit/public/mylog"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

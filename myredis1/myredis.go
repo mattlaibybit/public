@@ -6,8 +6,8 @@ import (
 	"time"
 
 	redis "github.com/go-redis/redis/v8"
-	"github.com/xxjwxc/public/mylog"
-	"github.com/xxjwxc/public/tools"
+	"github.com/mattlaibybit/public/mylog"
+	"github.com/mattlaibybit/public/tools"
 )
 
 // MyRedis 分布式缓存

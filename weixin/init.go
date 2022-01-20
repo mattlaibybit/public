@@ -1,10 +1,10 @@
 package weixin
 
 import (
-	"github.com/xxjwxc/public/message"
-	"github.com/xxjwxc/public/mylog"
+	"github.com/mattlaibybit/public/message"
+	"github.com/mattlaibybit/public/mylog"
 
-	"github.com/xxjwxc/public/tools"
+	"github.com/mattlaibybit/public/tools"
 
 	wxpay "gopkg.in/go-with/wxpay.v1"
 )
